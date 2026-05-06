@@ -65,6 +65,7 @@
 
 - Disguise kit
 - Alchemy supplies
+- Tinkerer's tools
 
 ## Languages:
 

@@ -8,6 +8,7 @@
     - Ideals: Creativity - Never run the same scam twice
     - Bond: On the Run - fleeced the wrong person
     - Flaws: Can't resist swindling more powerful people
+- Exp: 10
 
 ## Combat:
 - **AC** 12 (10(No armor)+2(dex)) / 15 (+3 more with Mage armor)

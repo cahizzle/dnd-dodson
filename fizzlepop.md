@@ -78,6 +78,7 @@
 - Fine Clothes
 - Disguise Kit
 - ten stoppered bottles with assorted colored liquids inside
+- seven fancy rum bottles?
 - Dagger
 - Component Pouch
 - Explorer's pack

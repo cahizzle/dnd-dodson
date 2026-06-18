@@ -74,7 +74,7 @@
 
 ## Equipment
 
-- 150 sp
+- 350 sp
 - Fine Clothes
 - Disguise Kit
 - ten stoppered bottles with assorted colored liquids inside

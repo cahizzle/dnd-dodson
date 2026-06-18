@@ -83,6 +83,7 @@
 - Explorer's pack
 - Spell Book
 - Clothes/Costume
+- Pickled Gremlin in a bottle
 
 ## Spells
 - Attack: +5
